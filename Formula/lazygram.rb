@@ -1,8 +1,8 @@
 class Lazygram < Formula
   desc "IRC-style terminal client for Telegram, in the spirit of BitchX and nchat"
   homepage "https://github.com/t0d0r/lazygram"
-  url "https://github.com/t0d0r/lazygram/archive/refs/tags/v0.4.2.tar.gz"
-  sha256 "b6bcced92e3ebd00fea988b23219995aa559056318df6acb4375b27f49d10e91"
+  url "https://github.com/t0d0r/lazygram/archive/refs/tags/v0.4.3.tar.gz"
+  sha256 "fcbe3f24dfc1dcbbd4b446220f9c132c4d2982bd53cb906ca7962dfedcf91c5d"
   license "BSD-2-Clause"
   head "https://github.com/t0d0r/lazygram.git", branch: "main"
 
