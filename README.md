@@ -5,6 +5,7 @@ Homebrew formulae by t0d0r.
 | formula | description |
 |---------|-------------|
 | [lazyai](https://github.com/t0d0r/lazyai) | Terminal UI for local AI coding agents, in the style of lazydocker (macOS) |
+| [lazygram](https://github.com/t0d0r/lazygram) | IRC-style terminal client for Telegram, in the spirit of BitchX and nchat |
 
 ## How do I install these formulae?
 
