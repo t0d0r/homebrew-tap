@@ -1,8 +1,8 @@
 class Lazyai < Formula
   desc "Terminal UI for local AI coding agents, in the style of lazydocker"
   homepage "https://github.com/t0d0r/lazyai"
-  url "https://github.com/t0d0r/lazyai/archive/refs/tags/v0.11.1.tar.gz"
-  sha256 "381ca7f5b89dc6cc6945a6856506b9695bb292bb1e5585967da71b3a53edc269"
+  url "https://github.com/t0d0r/lazyai/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "3da2f4fab186261eb560cf47a09d3ef9ff8b8fd2efeae075fcf800905783c29f"
   license "BSD-2-Clause"
   head "https://github.com/t0d0r/lazyai.git", branch: "main"
 
